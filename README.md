@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rexremigius
-- 👀 I’m interested in UI/UX and 
+- 👀 I’m interested in UI/UX and Front end Devolpment
 - 🌱 I’m currently learning B.Tech IT 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
